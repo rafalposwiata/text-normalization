@@ -4,4 +4,4 @@ Data set prepared for publication "Component System Specialized in Numbers Norma
 Zip contains two files:
 
 - data_set.txt (file with our whole data set)
-- tts_answers.txt (file with written answers from Text-to-Speech systems Google Translate and Amazon Polly)
+- tts_answers.txt (file with written answers from Text-to-Speech systems: Google Translate and Amazon Polly)
