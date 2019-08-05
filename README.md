@@ -1,5 +1,5 @@
 # text-normalization
-Data set prepared for publication "Numbers Normalisation in the Inflected Languages: a Case Study of Polish".
+Data set prepared for publication ["Numbers Normalisation in the Inflected Languages: a Case Study of Polish"](https://www.aclweb.org/anthology/papers/W/W19/W19-3703/).
 
 Zip contains two files:
 
