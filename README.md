@@ -13,8 +13,7 @@ If you use the dataset from this repository, please cite:
 ```bib
 @inproceedings{poswiata-perelkiewicz-2019-numbers,
     title = "Numbers Normalisation in the Inflected Languages: a Case Study of {P}olish",
-    author = "Po{\'s}wiata, Rafa{\l}  and
-      Pere{\l}kiewicz, Micha{\l}",
+    author = "Po{\'s}wiata, Rafa{\l} and Pere{\l}kiewicz, Micha{\l}",
     booktitle = "Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing",
     month = aug,
     year = "2019",
